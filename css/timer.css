@@ -16,6 +16,7 @@ font-family: 'Titillium Web', cursive;
   display: block;
   font-size: 20px;
   color: white;
+  padding-left:20px;
 }
 
 #days {
@@ -33,4 +34,18 @@ font-family: 'Titillium Web', cursive;
 #seconds {
   font-size: 50px;
   color: #abcd58;
+}
+
+
+@media only screen and (max-width: 600px) {
+  .abc {
+font-family: 'Titillium Web', cursive;
+  display: inline-block;
+  line-height: 1;
+    margin-bottom: -49px;
+  font-size: 40px;
+  padding-top:45px;
+margin:0px;
+}
+
 }
