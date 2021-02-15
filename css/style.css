@@ -399,7 +399,7 @@ li {
 }
 .main-banner {
     position: relative;
-    background-image: url('../images/retina/banner/banner-3.jpg');
+    background-image: url('../images/retina/banner/banner-3.JPG');
     background-size: cover;
     background-position: center;
     width: 100%;
@@ -663,7 +663,7 @@ li {
     position: relative;
     background-position: center center !important;
     background-size: cover !important;
-    background: url("../images/retina/general/bg.jpg");
+    background: url("../images/retina/banner/man.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     color: #ffffff;
